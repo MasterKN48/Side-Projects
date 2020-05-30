@@ -27,6 +27,8 @@
 [Live Link] : https://masterkn48.github.io/voice_mail/ <br/>
 [Source Code] : https://github.com/MasterKN48/voice_mail
 
+<hr/>
+
 #### > Tic Tac Toe
 
 [Live Link] : https://masterkn48.github.io/tictactoe.io <br/>
@@ -80,6 +82,7 @@
 
 [Source Code] : https://github.com/MasterKN48/webrtc--video-calling-web-app
 
+<hr/>
 
 #### > BBC NEWS MOCK-UP
 
