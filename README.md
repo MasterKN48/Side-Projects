@@ -66,10 +66,25 @@
 [Source Code] : https://github.com/MasterKN48/codeX.io/tree/gh-pages
 
 <hr/>
+
 #### > Analog Clock : Using Vanilla JS
 
 [Live Link] : https://masterkn48.github.io/clock.io/ <br/>
 [Source Code] : https://github.com/MasterKN48/clock.io/tree/gh-pages
+
+<hr/>
+
+#### > WEB_RTC VIDEO CALLING APP
+
+*** Live link removed! To use run locally***
+
+[Source Code] : https://github.com/MasterKN48/webrtc--video-calling-web-app
+
+
+#### > BBC NEWS MOCK-UP
+
+[Live Link] : https://masterkn48.github.io/bbcnewsmock.io/ <br/>
+[Source Code] : https://github.com/MasterKN48/bbcnewsmock.io/tree/gh-pages
 
 <hr/>
 
@@ -101,24 +116,11 @@
 
 <hr/>
 
-#### > BBC NEWS MOCK-UP
-
-[Live Link] : https://masterkn48.github.io/bbcnewsmock.io/ <br/>
-[Source Code] : https://github.com/MasterKN48/bbcnewsmock.io/tree/gh-pages
-
-<hr/>
-
 #### > PROJECT  PLANNER: A Basic React App
 
 [Live Link] : https://mkn-proplanner.firebaseapp.com/
 
 <hr/>
-
-#### > WEB_RTC VIDEO CALLING APP
-
-*** Live link removed! To use run locally***
-
-[Source Code] : https://github.com/MasterKN48/webrtc--video-calling-web-app
 
 
 #### > ROOM SEARCH
@@ -128,9 +130,7 @@
 
 <hr/>
 
-<hr/>
-
-#### 18. MasterCoin: A Simple Blockchain
+#### > MasterCoin: A Simple Blockchain
 
 [Source Code] : https://github.com/MasterKN48/MasterCoin-My-First-Blockchain
 
