@@ -7,6 +7,8 @@
 [Live Link] : https://masterkn48.github.io/quick-lipsum <br/>
 [Source Code] : https://github.com/MasterKN48/quick-lipsum
 
+<hr/>
+
 #### > DevHub -- A Developer Connector Social Media
 [Live Link] : https://m-devhub.herokuapp.com/ <br/>
 [Source Code] : https://github.com/MasterKN48/devhub
