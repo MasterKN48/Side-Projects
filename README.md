@@ -15,12 +15,6 @@
 
 <hr/>
 
-#### > Instant Chat App
-
-[Source Code Client Side] : https://github.com/MasterKN48/chatApp <br/>
-[Source Code Server Side] : https://github.com/MasterKN48/backend_chatApp
-
-<hr/>
 
 #### > Voice Mail
 
@@ -76,14 +70,6 @@
 
 <hr/>
 
-#### > WEB_RTC VIDEO CALLING APP
-
-*** Live link removed! To use run locally***
-
-[Source Code] : https://github.com/MasterKN48/webrtc--video-calling-web-app
-
-<hr/>
-
 #### > BBC NEWS MOCK-UP
 
 [Live Link] : https://masterkn48.github.io/bbcnewsmock.io/ <br/>
@@ -91,18 +77,6 @@
 
 <hr/>
 
-#### > Reaction Test : How fast you can click
-
-[Live Link] : https://masterkn48.github.io/reacttest.io/ <br/>
-[Source Code] : https://github.com/MasterKN48/reacttest.io/tree/gh-pages
-
-<hr/>
-
-#### > MY FIRST CHROME EXTENSION
-
-[Download Link] : https://github.com/MasterKN48/my-first-chrome-extension/blob/master/MKN%20DArK.crx
-
-<hr/>
 
 #### > LETS_GO: A Basic Search Engine
 
@@ -112,26 +86,6 @@
 
 <hr/>
 
-#### > AUTO COMPLETE : Basic Search Box
-
-[Live Link] : https://masterkn48.github.io/searchbar/ <br/> 
-[Source Code] : https://github.com/MasterKN48/searchbar/tree/gh-pages
-
-<hr/>
-
-#### > PROJECT  PLANNER: A Basic React App
-
-[Live Link] : https://mkn-proplanner.firebaseapp.com/
-
-<hr/>
-
-
-#### > ROOM SEARCH
-
-[Live Link] : https://masterkn48.github.io/mistay_hire/ <br/>
-[Source Code] : https://github.com/MasterKN48/mistay_hire
-
-<hr/>
 
 #### > MasterCoin: A Simple Blockchain
 
