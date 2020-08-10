@@ -9,6 +9,13 @@
 
 <hr/>
 
+#### > Shortly
+
+[Live Link] : https://u21.herokuapp.com/ <br/>
+[Source Code] : https://masterkn48.github.io/quick-lipsum
+
+<hr/>
+
 #### > DevHub -- A Developer Connector Social Media
 [Live Link] : https://m-devhub.herokuapp.com/ <br/>
 [Source Code] : https://github.com/MasterKN48/devhub
