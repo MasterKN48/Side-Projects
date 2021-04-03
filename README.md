@@ -12,7 +12,7 @@
 #### > Shortly
 
 [Live Link] : https://u21.herokuapp.com/ <br/>
-[Source Code] : https://masterkn48.github.io/quick-lipsum
+[Source Code] : https://github.com/MasterKN48/shortly
 
 <hr/>
 
